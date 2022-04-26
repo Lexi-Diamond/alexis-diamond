@@ -43,6 +43,29 @@ a {
 .jumbotron {
     height: 500px;
     margin-left: 35px;
+    margin-top: 35px;
+    margin-right:35px;
+}
+.animationCard {
+    background-image: url(palmtrees.jpeg);
+    background-size: cover;
+    height: 800px;
+    margin-right: 35px;
+    margin-top: 35px;
+}
+.card-text {
+    font-size: 150px;
+}
+.project-card {
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 35px;
+    width: 400px;
+}
+.side-project-card {
+    margin-top: 35px;
+    width:300px;
+    margin-left:80px;
 }
 
 
