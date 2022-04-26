@@ -1,15 +1,15 @@
-# alexis-diamond
-# All-Your-Music-Needs
+
+# Profile 2
 ## Technology Used
-HTML, CSS, Javascript, Bootstrap, Moment, jQuery
+HTML, CSS, Bootstrap
+
 ## Description
-This project used two third party APIs to display information, local storage to save information to be displayed in other windows and Moment to display dates on multiple pages. Bootstrap was used for creating elements which were styled to fit the website.
-## "Its only Rock n' Roll (But I Like It)!"
-This project was conceptualized with our groups mutual love for music in mind. Searching and displaying artists information we found interesting lead us to create "All Your Music Needs". We were lucky enough to find APIs with some interesting data available giving us the idea to base our website off of artist pictures, biographies and concert information which are displayed on a separate page after searching an artist. We thought it would be fun to let the user save their favorite bands and see an extensive list of tour dates in separate windows after they search for an artist. 
+This is an updated profile page that improved on my original profile page, improvements include a more pleasing UI and updated projects and contact information.
 
 ## Links
-[Github Repository](https://github.com/JGuerrero126/All-Your-Music-Needs)
+[Github Repository](https://github.com/Lexi-Diamond/alexis-diamond.git)
 
-[The Website](https://jguerrero126.github.io/All-Your-Music-Needs/)
+[The Website](https://lexi-diamond.github.io/alexis-diamond/)
+
 # Images/Screenshots
-![Screenshot](Screenshot.jpeg)
+![Screenshot](Screenshot2.jpeg)
